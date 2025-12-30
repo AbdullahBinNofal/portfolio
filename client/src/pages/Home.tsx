@@ -125,11 +125,11 @@ export default function Home() {
                       </a>
                       {/* <a href="https://github.com/Fareed-ud-Din-Munawwar" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors">
                          <Github className="w-5 h-5" />
-                         <span>@fareedmunawwar</span>
+                         <span>@abdullahbinnofal</span>
                       </a>
                       <a href="https://www.linkedin.com/in/fareed-ud-din-munawwar-ab693a23a/" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-blue-100 hover:text-white transition-colors">
                          <Linkedin className="w-5 h-5" />
-                         <span>Fareed-ud-Din Munawwar</span>
+                         <span>Abdullah Bin Nofal</span>
                       </a> */}
                    </div>
                 </div>
